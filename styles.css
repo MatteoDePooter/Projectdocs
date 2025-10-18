@@ -12,7 +12,7 @@ body{
 .container {
     font-family: "BBH Sans Hegarty", sans-serif;
     max-width: 65vw;
-    margin-left: 20px;
+    margin-left: auto;
     margin-right: auto;
 }
 
