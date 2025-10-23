@@ -24,4 +24,10 @@ body{
     margin-top: 2em;
 }
 
-
+.screen{
+    height: 100%;
+    width: 100%;
+    border: 2pt solid;
+    border-color: black;
+    
+}
